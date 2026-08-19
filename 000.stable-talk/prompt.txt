@@ -1,0 +1,5 @@
+[DURATION]
+30
+
+[PROMPT]
+A slow, moody acoustic guitar instrumental, Southern Gothic cinematic atmosphere, heavy tension, 85 BPM.
