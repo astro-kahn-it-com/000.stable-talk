@@ -1,0 +1,30 @@
+# Python binaries & embedded environment
+python_embeded/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# Model checkpoints & cache directories
+models/
+cache/
+*.safetensors
+*.pt
+*.bin
+*.ckpt
+*.onnx
+
+# Rendered audio deliverables & logs
+output/
+outputs/
+*.wav
+*.mp3
+*.flac
+*.log
+
+# Windows system files & editor settings
+Thumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.vscode/
+.idea/
